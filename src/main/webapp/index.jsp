@@ -4,7 +4,7 @@
 
 <br/>
 <hr/>
-<a href="/people">Start</a>
+<a href="/users">Start</a>
 
 </body>
 </html>
